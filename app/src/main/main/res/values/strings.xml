@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Finding_Lost_Kid_Application</string>
+    <string name="title_activity_finding__kid__location_"></string>
+    <string name="mapcall">MapCall</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Software Development Team 5</string>
+    <string name="nav_header_subtitle">Software 5@skku.edu</string>
+    <string name="action_settings">Settings</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="title_activity_new_main">NewMainActivity</string>
+
+
+</resources>
